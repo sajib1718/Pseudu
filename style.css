@@ -1,0 +1,13 @@
+p:hover {
+    color: blue;
+}
+
+input:focus {
+    color: brown;
+
+}
+
+a:visited {
+
+    color: rgb(97, 11, 209);
+}
